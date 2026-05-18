@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import { Container } from "./components/Container";
 
 function App() {
-
   return (
-    <>
-      Hola mundo!
-    </>
-  )
+    <div>
+      <Container />
+    </div>
+  );
 }
 
-export default App
+export default App;
