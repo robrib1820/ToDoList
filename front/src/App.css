@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container-tarefa {
+  margin: 1rem;
+  padding: 1rem;
+}
+#tarefas {
+  background-color: #000000;
+  color: #ffffff;
+  display: inline-block;
+  padding: 1rem;
+  border-radius: 0.2rem;
+}
