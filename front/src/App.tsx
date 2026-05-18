@@ -1,12 +1,12 @@
-import './App.css'
-import Card from './components/Card'
-function App() {
+import "./App.css";
+import { Container } from "./components/Container";
 
+function App() {
   return (
-    <>
-      <Card />
-    </>
-  )
+    <div>
+      <Container />
+    </div>
+  );
 }
 
-export default App
+export default App;
